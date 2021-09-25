@@ -1,1 +1,7 @@
+title: Calvary Berean Class
+
+
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
