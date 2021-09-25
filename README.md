@@ -2,4 +2,4 @@
 
 ### Weekly links
 
-* [Week 09/19/2021](#week091921)
+* [Week 09/19/2021](#week091921.md)
