@@ -5,3 +5,5 @@ theme: jekyll-theme-modernist
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-default-layout
+  - jekyll-relative-links
