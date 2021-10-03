@@ -8,4 +8,5 @@
 * [Introduction to Eschatology (Part 4) - Week 09/12/2021](/week091221.md)
 * [Introduction to Eschatology (Part 3) - Week 09/05/2021](/week090521.md)
 * [Introduction to Eschatology (Part 2) - Week 08/29/2021](/week082921.md)
+* [Introduction to Eschatology (Part 1) - Week 08/29/2021](/week082221.md)
     
