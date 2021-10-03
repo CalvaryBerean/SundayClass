@@ -19,4 +19,4 @@
 * [Introduction to Eschatology (Part 1) - Week 08/22/2021](/week082221.md)
     
 ### Help
-* [FAQ][faq.md]
+* [FAQ](faq.md)
