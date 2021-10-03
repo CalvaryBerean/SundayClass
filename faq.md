@@ -10,5 +10,5 @@ When you go to the [main page](https://www.sjcalvaryberean.com/) and click on an
 ## Can I print the web page?
 Yes. Printing from your browser should work. 
 
-## The printed handout at our meeting showed an image. Why does the web page not show that?
+## The printed handout at our meeting included an image. Why does the web page not show that?
 We are using a very simple web site tool. Yes its possible to upload images, but out of time reasons its a lot of times skipped. You still can get to the image though by downloading the PDF version of the class. See above `Where can I find a PDF version of the weekly handout?`
