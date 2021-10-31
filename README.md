@@ -4,6 +4,7 @@
 
 #### October 2021
 
+* [Introduction to Revelation (Part 6) - Week 10/31/2021](/week103121.md)
 * [Introduction to Revelation (Part 5) - Week 10/24/2021](/week102421.md)
 * [Introduction to Revelation (Part 4) - Week 10/17/2021](/week101721.md)
 * [Introduction to Revelation (Part 3A) - Week 10/10/2021](/week101021.md)
