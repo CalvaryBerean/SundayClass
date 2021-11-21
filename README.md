@@ -2,8 +2,9 @@
 
 ### Weekly links 📖
 
-#### Novemberr 2021
+#### November 2021
 
+* [Introduction to Revelation (Part 8) - Week 11/21/2021](/week112121.md)
 * [Introduction to Revelation (Part 8) - Week 11/14/2021](/week111421.md)
 * [Introduction to Revelation (Part 7) - Week 11/07/2021](/week110721.md)
 
