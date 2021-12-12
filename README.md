@@ -2,6 +2,10 @@
 
 ### Weekly links 📖
 
+#### December 2021
+
+* [Christmas According to Scripture - Week 11/21/2021](/week121221.md)
+ 
 #### November 2021
 
 * [Introduction to Revelation (Part 9) - Week 11/21/2021](/week112121.md)
