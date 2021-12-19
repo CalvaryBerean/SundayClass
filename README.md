@@ -4,6 +4,7 @@
 
 #### December 2021
 
+* [Christmas According to Scripture - Week 12/19/2021](/week121921.md)
 * [Christmas According to Scripture - Week 12/12/2021](/week121221.md)
  
 #### November 2021
