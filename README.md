@@ -2,6 +2,9 @@
 
 ### Weekly links 📖
 
+#### January 2022
+* [Happy New YEar - Week 01/09/2022](/week010922.md)
+
 #### December 2021
 
 * [Christmas According to Scripture - Week 12/19/2021](/week121921.md)
