@@ -3,7 +3,8 @@
 ### Weekly links 📖
 
 #### January 2022
-* [Happy New YEar - Week 01/09/2022](/week010922.md)
+* [Is it possible to Understand the Book of Revelation? - Week 01/16/2022](/week011622.md)
+* [Happy New Year - Week 01/09/2022](/week010922.md)
 
 #### December 2021
 
