@@ -3,7 +3,8 @@
 ### Weekly links 📖
 
 #### January 2022
-* [Understanding the Book of Revelation - Week 01/23/2022](/week012322.md)
+* [Understanding the Book of Revelation - Chapter 3 - Week 01/30/2022](/week013022.md)
+* [Understanding the Book of Revelation - Chapter 2 - Week 01/23/2022](/week012322.md)
 * [Is it possible to Understand the Book of Revelation? - Week 01/16/2022](/week011622.md)
 * [Happy New Year - Week 01/09/2022](/week010922.md)
 
