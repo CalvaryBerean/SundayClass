@@ -3,8 +3,9 @@
 ### Weekly links 📖
 
 #### March 2022
+* [Understanding the Book of Revelation - Chapter 8 - Week 03/13/2022](/week031322.md)
 * [The Gog/Magog War (Ez. 38-39 & Rev. 20:7-8) - Week 03/06/2022](/week030622.md)
-* 
+
 #### February 2022
 * [Understanding the Book of Revelation - Chapter 7 - Week 02/27/2022](/week022722.md)
 * [Understanding the Book of Revelation - Chapter 6 - Week 02/20/2022](/week022022.md)
