@@ -2,6 +2,9 @@
 
 ### Weekly links 📖
 
+#### April 2022
+* [Understanding the Book of Revelation - Chapter 11 - Week 04/03/2022](/week040322.md)
+
 #### March 2022
 * [Understanding the Book of Revelation - Chapter 10 - Week 03/27/2022](/week032722.md)
 * [Understanding the Book of Revelation - Chapter 9 - Week 03/20/2022](/week032022.md)
