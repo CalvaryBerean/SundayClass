@@ -3,7 +3,7 @@
 ### Weekly links 📖
 
 #### April 2022
-* [Happy Easter!!! && Understanding the Book of Revelation - Chapter 12 - Week 04/17/2022](/week041722.md)
+* [Happy Resurrection Sunday! && Understanding the Book of Revelation - Chapter 12 - Week 04/17/2022](/week041722.md)
 * [Understanding the Book of Revelation - Chapter 12 - Week 04/10/2022](/week041022.md)
 * [Understanding the Book of Revelation - Chapter 11 - Week 04/03/2022](/week040322.md)
 
