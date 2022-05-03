@@ -2,6 +2,9 @@
 
 ### Weekly links 📖
 
+#### May 2022
+* [Guest Speaker: Neal Pirolo “Spiritual Warfare” - Week 05/01/2022](/week050122.md)
+
 #### April 2022
 * [The Jewish Roots of Christianity - Week 04/24/2022](/week042422.md)
 * [Happy Resurrection Sunday! && Understanding the Book of Revelation - Continue Chapter 12 - Week 04/17/2022](/week041722.md)
