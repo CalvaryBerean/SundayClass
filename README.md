@@ -3,6 +3,7 @@
 ### Weekly links 📖
 
 #### May 2022
+* [Guest Speaker: Michael Graef, CFP - "Preparing & Biblically Responsible Investing" - Week 05/08/2022](/week050822.md)
 * [Guest Speaker: Neal Pirolo “Spiritual Warfare” - Week 05/01/2022](/week050122.md)
 
 #### April 2022
