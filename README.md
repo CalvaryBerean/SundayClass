@@ -3,6 +3,7 @@
 ### Weekly links 📖
 
 #### May 2022
+* [Understanding the Book of Revelation - Chapter 13:11-18](/week052922.md)
 * [Understanding the Book of Revelation - Chapter 13](/week052222.md)
 * [Understanding the Book of Revelation - Chapter 12:10-17](/week051522.md)
 * [Guest Speaker: Michael Graef, CFP - "Preparing & Biblically Responsible Investing" - Week 05/08/2022](/week050822.md)
