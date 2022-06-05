@@ -2,6 +2,9 @@
 
 ### Weekly links 📖
 
+#### June 2022
+* [Understanding the Book of Revelation - Chapter 13:11-18](/week060522.md)
+
 #### May 2022
 * [Understanding the Book of Revelation - Chapter 13:11-18](/week052922.md)
 * [Understanding the Book of Revelation - Chapter 13](/week052222.md)
