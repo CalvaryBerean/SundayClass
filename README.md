@@ -3,6 +3,7 @@
 ### Weekly links 📖
 
 #### July 2022
+* [Understanding the Book of Revelation - Chapter 16:1 - 07/17/22](/week071722.md)
 * [Understanding the Book of Revelation - Chapter 15:1-8 - 07/10/22](/week071022.md)
 * [Understanding the Book of Revelation - Chapter 14:17-20 - 07/03/22](/week070322.md)
 
