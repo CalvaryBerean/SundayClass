@@ -3,7 +3,7 @@
 ### Weekly links 📖
 
 #### Septemger 2022
-* [Communion & the fellowship of believers 09/03/22](/week090322.md)
+* [Study on communion - 09/03/22](/week090322.md)
 
 #### August 2022
 * [Understanding the Book of Revelation - Chapter 18 08/28/22](/week082822.md)
