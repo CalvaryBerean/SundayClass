@@ -3,6 +3,9 @@
 ### Weekly links 📖
 
 #### Septemger 2022
+* [“I’ve always wondered …” - 09/04/22](/week090422.md)
+  * [Apologetics “Week 2 Handout”](/Week2Handout.pdf)
+  * [“Did God die on the cross? Handout”)](/DidGodDieonthecrossdoc.pdf)
 * [Study on communion - 09/03/22](/week090322.md)
 
 #### August 2022
