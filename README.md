@@ -4,8 +4,8 @@
 
 #### Septemger 2022
 * [“I’ve always wondered …” - Sunday 09/04/22](/week090422.md)
-  * [Handout "Apologetics class Week 2”](/Week2Handout.pdf)
-  * [Handout “Did God die on the cross?"](/DidGodDieonthecrossdoc.pdf)
+  * [A handout from the Apologetics series that deals with the deity of Christ & the Trinity](/Week2Handout.pdf)
+  * [A paper on "If Jesus is God, did God die on the cross"](/DidGodDieonthecrossdoc.pdf)
 * [Study on communion - Saturday 09/03/22](/week090322.md)
 
 #### August 2022
