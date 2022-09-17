@@ -1,8 +1,29 @@
 ## Welcome to Berean class at Calvary Church San Jose 🙏
 
+<!-- TOC -->
+  * [2022 📖](#2022-)
+      * [September 2022](#september-2022)
+      * [August 2022](#august-2022)
+      * [July 2022](#july-2022)
+      * [June 2022](#june-2022)
+      * [May 2022](#may-2022)
+      * [April 2022](#april-2022)
+      * [March 2022](#march-2022)
+      * [February 2022](#february-2022)
+      * [January 2022](#january-2022)
+  * [2021 📖](#2021-)
+    * [December 2021](#december-2021)
+    * [November 2021](#november-2021)
+    * [October 2021](#october-2021)
+    * [September 2021](#september-2021)
+    * [August 2021](#august-2021)
+  * [Help](#help)
+<!-- TOC -->
+
+
 ### 2022 📖
 
-#### Septemger 2022
+#### September 2022
 * [Understanding the Book of Revelation - Chapter 19 - Sunday 09/11/22](/week091122.md)
 * [“I’ve always wondered …” - Sunday 09/04/22](/week090422.md)
   * [A handout from the Apologetics series that deals with the deity of Christ & the Trinity](/Week2Handout.pdf)
