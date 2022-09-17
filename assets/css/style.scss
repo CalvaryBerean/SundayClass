@@ -29,4 +29,13 @@ aside#sidebar p.repo-owner a.button_x {
   font-size: 21px;
 }
 
+hrdivider {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
 /* Base file is https://github.com/pages-themes/architect/blob/master/_sass/jekyll-theme-architect.scss */
