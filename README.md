@@ -24,6 +24,7 @@
 ### 2022 📖
 
 #### September 2022
+* [Understanding the Book of Revelation - Chapter 19 - Sunday 09/18/22](/week091822.md)
 * [Understanding the Book of Revelation - Chapter 19 - Sunday 09/11/22](/week091122.md)
 * [“I’ve always wondered …” - Sunday 09/04/22](/week090422.md)
   * [A handout from the Apologetics series that deals with the deity of Christ & the Trinity](/Week2Handout.pdf)
