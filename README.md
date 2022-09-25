@@ -24,6 +24,7 @@
 ### 2022 📖
 
 #### September 2022
+* [The True Meaning of Rosh Hashana - Sunday 09/25/22](/week092522.md)
 * [Understanding the Book of Revelation - Chapter 19 - Sunday 09/18/22](/week091822.md)
 * [Understanding the Book of Revelation - Chapter 19 - Sunday 09/11/22](/week091122.md)
 * [“I’ve always wondered …” - Sunday 09/04/22](/week090422.md)
