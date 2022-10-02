@@ -2,6 +2,7 @@
 
 <!-- TOC -->
   * [2022 📖](#2022-)
+      * [October 2022](#October-2022)
       * [September 2022](#september-2022)
       * [August 2022](#august-2022)
       * [July 2022](#july-2022)
@@ -22,6 +23,9 @@
 
 
 ### 2022 📖
+
+#### October 2022
+* [Understanding the Book of Revelation - Chapter 19 - Sunday 10/02/22](/week100222.md)
 
 #### September 2022
 * [The True Meaning of Rosh Hashana - Sunday 09/25/22](/week092522.md)
