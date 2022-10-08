@@ -27,8 +27,7 @@
                 {{ site.title | default: site.github.repository_name }}
             </h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}
-        </h2>
+        <h2>{{ site.title | default: site.github.repository_name }}</h2>
         {% if site.github.is_project_page %}
         <!-- <a href="https://www.calvarysj.org" class="button_x"><img src="/CalvaryPNG.png" alt="Calvary Church" with=100 height=80></a>-->
         <a href="https://www.calvarysj.org" class="button_x"><small>Our church</small> Calvary</a>
