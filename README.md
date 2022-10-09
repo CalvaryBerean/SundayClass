@@ -2,7 +2,7 @@
 
 <!-- TOC -->
   * [2022 📖](#2022-)
-      * [October 2022](#October-2022)
+      * [October 2022](#october-2022)
       * [September 2022](#september-2022)
       * [August 2022](#august-2022)
       * [July 2022](#july-2022)
