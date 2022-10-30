@@ -25,6 +25,7 @@
 ### 2022 📖
 
 #### October 2022
+* [Understanding the Book of Revelation - Chapter 20 - Sunday 10/30/22](/week103022.md)
 * [Understanding the Book of Revelation - Chapter 20 - Sunday 10/23/22](/week102322.md)
 * [Understanding the Book of Revelation - Chapter 20 - Sunday 10/16/22](/week101622.md)
 * [Understanding the Book of Revelation - Chapter 20 - Sunday 10/09/22](/week100922.md)
