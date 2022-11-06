@@ -2,6 +2,7 @@
 
 <!-- TOC -->
   * [2022 📖](#2022-)
+      * [November 2022](#november-2022)
       * [October 2022](#october-2022)
       * [September 2022](#september-2022)
       * [August 2022](#august-2022)
@@ -23,6 +24,9 @@
 
 
 ### 2022 📖
+
+#### November 2022
+* [Understanding the Book of Revelation - Chapter 21 - Sunday 11/06/22](/week110622.md)
 
 #### October 2022
 * [Understanding the Book of Revelation - Chapter 20 - Sunday 10/30/22](/week103022.md)
