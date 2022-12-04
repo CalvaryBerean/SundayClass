@@ -2,6 +2,7 @@
 
 <!-- TOC -->
   * [2022 📖](#2022-)
+      * [December 2022](#december-2022)
       * [November 2022](#november-2022)
       * [October 2022](#october-2022)
       * [September 2022](#september-2022)
@@ -25,8 +26,11 @@
 
 ### 2022 📖
 
+#### December 2022
+* [Personal Reflections on Calvary's Israel Tour, Pt. 2 - Sunday 12/94/22](/week120422.md)
+
 #### November 2022
-* [Personal Reflections on Calvary's Israel Tour - Chapter 22 - Sunday 11/27/22](/week112722.md)
+* [Personal Reflections on Calvary's Israel Tour - Sunday 11/27/22](/week112722.md)
 * [Understanding the Book of Revelation - Chapter 22 - Sunday 11/20/22](/week112022.md)
 * [Understanding the Book of Revelation - Chapter 21 - Sunday 11/13/22](/week111322.md)
 * [Understanding the Book of Revelation - Chapter 21 - Sunday 11/06/22](/week110622.md)
