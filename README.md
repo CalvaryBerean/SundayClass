@@ -27,7 +27,8 @@
 ### 2022 📖
 
 #### December 2022
-* [Personal Reflections on Calvary's Israel Tour, Pt. 2 - Sunday 12/94/22](/week120422.md)
+* [Christmas according to Scripture - Sunday 12/18/22](/week121822.md)
+* [Personal Reflections on Calvary's Israel Tour, Pt. 2 - Sunday 12/04/22](/week120422.md)
 
 #### November 2022
 * [Personal Reflections on Calvary's Israel Tour - Sunday 11/27/22](/week112722.md)
