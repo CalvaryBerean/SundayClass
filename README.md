@@ -27,6 +27,7 @@
 ### 2022 📖
 
 #### December 2022
+* [God Gave Us Jesus & the inspiration & infallibility of the Bible - Sunday 12/15/22](/week122522.md)
 * [Christmas according to Scripture - Sunday 12/18/22](/week121822.md)
 * [Personal Reflections on Calvary's Israel Tour, Pt. 2 - Sunday 12/04/22](/week120422.md)
 
