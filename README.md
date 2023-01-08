@@ -1,6 +1,8 @@
 ## Welcome to Berean class at Calvary Church San Jose 🙏
 
 <!-- TOC -->
+  * [2023 📖](#2023-)
+      * [January 2023](#january-2023)
   * [2022 📖](#2022-)
       * [December 2022](#december-2022)
       * [November 2022](#november-2022)
@@ -23,8 +25,12 @@
   * [Help](#help)
 <!-- TOC -->
 
+### 2023 📖
 
 ### 2022 📖
+
+#### January 2023
+* [Happy New Year!!! - The Book of Daniel (Introduction) - Sunday 01/01/2023](/week010123.md)
 
 #### December 2022
 * [God Gave Us Jesus & the inspiration & infallibility of the Bible - Sunday 12/15/22](/week122522.md)
