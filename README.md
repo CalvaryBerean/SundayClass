@@ -29,8 +29,8 @@
 ### 2023 📖
 
 #### February 2023
-* [The Book of Daniel (Chapter 3, Part 2) - Sunday 02/26/2023](/week022623.md)
-* [The Book of Daniel (Chapter 3) - Sunday 02/19/2023](/week021923.md)
+* [Book of Daniel (Chapter 3, Part 2) - Sunday 02/26/2023](/week022623.md)
+* [Book of Daniel (Chapter 3) - Sunday 02/19/2023](/week021923.md)
 * [The Book of Daniel (Chapter 2 Pt 3) - Sunday 02/12/2023](/week021223.md)
 * [The Book of Daniel (Chapter 2) - Sunday 02/05/2023](/week020523.md)
 
