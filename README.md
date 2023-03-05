@@ -30,7 +30,7 @@
 ### 2023 📖
 
 #### March 2023
-* [Book of Daniel Chapter 4) - Sunday 03/05/2023](/week030523.md)
+* [Book of Daniel Chapter 4 - Sunday 03/05/2023](/week030523.md)
 
 #### February 2023
 * [Book of Daniel (Chapter 3, Part 2) - Sunday 02/26/2023](/week022623.md)
