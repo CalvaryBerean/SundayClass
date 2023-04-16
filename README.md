@@ -2,7 +2,8 @@
 
 <!-- TOC -->
   * [2023 📖](#2023-)
-      * [March 2023](#march-2023)
+      * [April 2023](#april-2023) 
+      * [March 2023](#march-2023) 
       * [February 2023](#february-2023)
       * [January 2023](#january-2023)
   * [2022 📖](#2022-)
@@ -28,6 +29,9 @@
 <!-- TOC -->
 
 ### 2023 📖
+
+#### April 2023
+* [The Book of Daniel, Chapter 5, Week 2 - Sunday 04/03/2023](/weel040223.pdf)
 
 #### March 2023
 * [The Book of Daniel, Chapter 5 - Sunday 03/26/2023](/week032623.pdf)
