@@ -32,6 +32,7 @@
 
 #### April 2023
 
+* [The Book of Daniel, Chapter 7, Part IV (Conclusion) - Sunday 04/23/2023](/week043023.pdf)
 * [The Book of Daniel, Chapter 7, Part 2 - Sunday 04/23/2023](/week042323.pdf)
 * [The Book of Daniel, Chapter 7 - Sunday 04/16/2023](/week041623.pdf)
   * [Commentary on possible scenario for Israel - Sunday 04/16/2023](/CommentaryAmirTsarfatiKedar.pdf)
