@@ -2,6 +2,7 @@
 
 <!-- TOC -->
   * [2023 📖](#2023-)
+      * [May 2023](#may-2023) 
       * [April 2023](#april-2023) 
       * [March 2023](#march-2023) 
       * [February 2023](#february-2023)
@@ -29,6 +30,9 @@
 <!-- TOC -->
 
 ### 2023 📖
+
+#### May 2023
+* [The Book of Daniel, Chapter 8 - Sunday 05/07/2023](/week05072023.pdf)
 
 #### April 2023
 
