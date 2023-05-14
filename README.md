@@ -32,6 +32,7 @@
 ### 2023 📖
 
 #### May 2023
+* [The Book of Daniel, Chapter 8 (Pt II) - Sunday 05/14/2023](/week051423.pdf)
 * [The Book of Daniel, Chapter 8 - Sunday 05/07/2023](/week05072023.pdf)
 
 #### April 2023
