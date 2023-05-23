@@ -32,6 +32,8 @@
 ### 2023 📖
 
 #### May 2023
+* [The Book of Daniel, Chapter 8 (Conclusion) - Sunday 05/21/2023](/week052123.pdf)
+* [The News Media’s Left Bias is becoming more and more evident - Sunday 05/21/2023](/week052123AddOn.pdf)
 * [The Book of Daniel, Chapter 8 (Pt II) - Sunday 05/14/2023](/week051423.pdf)
 * [The Book of Daniel, Chapter 8 - Sunday 05/07/2023](/week05072023.pdf)
 
