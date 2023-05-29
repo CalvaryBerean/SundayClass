@@ -33,7 +33,7 @@
 
 #### May 2023
 * [The Book of Daniel, Chapter 9 - Sunday 05/28/2023](/week052823.pdf)
-  * [B.A.R.I. Channels - Sunday 05/28/2023](/BARI_Freqs.pdf.pdf)
+  * [B.A.R.I. Channels - Sunday 05/28/2023](/BARI_Freqs.pdf)
 * [The Book of Daniel, Chapter 8 (Conclusion) - Sunday 05/21/2023](/week052123.pdf)
   * [The News Media’s Left Bias is becoming more and more evident - Sunday 05/21/2023](/week052123AddOn.pdf)
 * [The Book of Daniel, Chapter 8 (Pt II) - Sunday 05/14/2023](/week051423.pdf)
