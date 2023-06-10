@@ -33,6 +33,7 @@
 ### 2023 📖
 
 #### June 2023
+* [The Book of Daniel, Chapter 9 - Sunday 06/11/2023](/week061123.pdf)
 * [The Book of Daniel, Chapter 9 - Sunday 06/04/2023](/week060423.pdf)
 
 #### May 2023
