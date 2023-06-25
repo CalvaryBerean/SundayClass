@@ -1,4 +1,4 @@
-## Welcome to Berean class at Calvary Church San Jose 🙏
+<img width="670" alt="image" src="https://github.com/CalvaryBerean/SundayClass/assets/91395158/beadf634-8433-41ea-a6e9-1725a9950d41">## Welcome to Berean class at Calvary Church San Jose 🙏
 
 <!-- TOC -->
   * [2023 📖](#2023-)
@@ -33,6 +33,7 @@
 ### 2023 📖
 
 #### June 2023
+* [The Book of Daniel, Chapter 9:26-27 (cont) - Sunday 06/25/2023](/week062523.pdf)
 * [The Book of Daniel, Chapter 9:26-27 - Sunday 06/17/2023](/week061723.pdf)
 * [The Book of Daniel, Chapter 9 - Sunday 06/11/2023](/week061123.pdf)
 * [The Book of Daniel, Chapter 9 - Sunday 06/04/2023](/week060423.pdf)
