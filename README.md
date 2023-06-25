@@ -1,4 +1,4 @@
-<img width="670" alt="image" src="https://github.com/CalvaryBerean/SundayClass/assets/91395158/beadf634-8433-41ea-a6e9-1725a9950d41">## Welcome to Berean class at Calvary Church San Jose 🙏
+## Welcome to Berean class at Calvary Church San Jose 🙏
 
 <!-- TOC -->
   * [2023 📖](#2023-)
