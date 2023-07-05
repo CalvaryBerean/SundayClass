@@ -2,6 +2,7 @@
 
 <!-- TOC -->
   * [2023 📖](#2023-)
+      * [July 2023](#july-2023)
       * [June 2023](#june-2023)      
       * [May 2023](#may-2023) 
       * [April 2023](#april-2023) 
@@ -31,6 +32,8 @@
 <!-- TOC -->
 
 ### 2023 📖
+#### July 2023
+* [The Book of Daniel, Chapter 9:26-27 (concl) - Sunday 07/02/2023](/week070223.pdf)
 
 #### June 2023
 * [The Book of Daniel, Chapter 9:26-27 (cont) - Sunday 06/25/2023](/week062523.pdf)
