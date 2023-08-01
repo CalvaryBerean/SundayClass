@@ -33,6 +33,9 @@
 
 ### 2023 📖
 #### July 2023
+* [Brochure/Flyer - Sunday 07/30/2023](/flyer.pdf)
+* [The Proper Angle on Angels - Sunday 07/30/2023](/week073023.pdf)
+* [A 1 Week break from Daniel - What does God say about Assumptions - Sunday 07/23/2023](/week072323.pdf)
 * [The Book of Daniel - A Study on Angels , Chapter 10 - Sunday 07/16/2023](/week071623.pdf)
 * [The Book of Daniel, Chapter 10 - Sunday 07/09/2023](/week070923.pdf)
 * [The Book of Daniel, Chapter 9:26-27 (concl) - Sunday 07/02/2023](/week070223.pdf)
