@@ -2,6 +2,7 @@
 
 <!-- TOC -->
   * [2023 📖](#2023-)
+      * [August 2023](#august-2023)
       * [July 2023](#july-2023)
       * [June 2023](#june-2023)      
       * [May 2023](#may-2023) 
@@ -32,6 +33,10 @@
 <!-- TOC -->
 
 ### 2023 📖
+
+#### August 2023
+* [Dealing With Demons - Sunday 08/06/2023](/week086023.pdf)
+ 
 #### July 2023
 * [Brochure/Flyer - Sunday 07/30/2023](/flyer.pdf)
 * [The Proper Angle on Angels - Sunday 07/30/2023](/week073023.pdf)
