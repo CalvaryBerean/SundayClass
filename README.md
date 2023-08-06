@@ -35,7 +35,7 @@
 ### 2023 📖
 
 #### August 2023
-* [Dealing With Demons - Sunday 08/06/2023](/week086023.pdf)
+* [Dealing With Demons - Sunday 08/06/2023](/week080623.pdf)
  
 #### July 2023
 * [Brochure/Flyer - Sunday 07/30/2023](/flyer.pdf)
