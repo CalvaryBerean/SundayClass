@@ -35,6 +35,7 @@
 ### 2023 📖
 
 #### August 2023
+* [Daniel Chapter 11:17-35 - Sunday 08/20/2023](/week082023.pdf)
 * [Daniel Chapter 11 - Sunday 08/13/2023](/week081323.pdf)
 * [Dealing With Demons - Sunday 08/06/2023](/week080623.pdf)
  
