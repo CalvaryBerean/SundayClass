@@ -1,6 +1,8 @@
 ## Welcome to Berean class at Calvary Church San Jose 🙏
 
 <!-- TOC -->
+  * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
+    
   * [2023 📖](#2023-)
       * [August 2023](#august-2023)
       * [July 2023](#july-2023)
