@@ -38,10 +38,10 @@
 ### 2023 📖
 
 #### September 2023
-* [An Intro to Eschatology - Sunday 09/03/2023](/week090323.pdf)
+* [An Intro to Eschatology - Part 2 - Sunday 09/03/2023](/week090323.pdf)
 
 #### August 2023
-* [Happy 3rd Birthday Bereans!- (a look at how we started) - Sunday 08/27/2023](/week082723.pdf)
+* [Happy 3rd Birthday Bereans! - (a look at how we started) - An Intro to Eschatology - Part  1 - Sunday 08/27/2023](/week082723.pdf)
 * [Daniel Chapter 11:17-35 - Sunday 08/20/2023](/week082023.pdf)
 * [Daniel Chapter 11 - Sunday 08/13/2023](/week081323.pdf)
 * [Dealing With Demons - Sunday 08/06/2023](/week080623.pdf)
