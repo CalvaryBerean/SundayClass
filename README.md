@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2023 📖](#2023-)
+      * [September 2023](#september-2023)
       * [August 2023](#august-2023)
       * [July 2023](#july-2023)
       * [June 2023](#june-2023)      
@@ -35,6 +36,9 @@
 <!-- TOC -->
 
 ### 2023 📖
+
+#### September 2023
+* [An Intro to Eschatology - Sunday 09/03/2023](/week090323.pdf)
 
 #### August 2023
 * [Happy 3rd Birthday Bereans!- (a look at how we started) - Sunday 08/27/2023](/week082723.pdf)
