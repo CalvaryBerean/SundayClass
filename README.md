@@ -38,7 +38,7 @@
 ### 2023 📖
 
 #### September 2023
-* [Daniel Chapter 12 - Part 1 - Sunday 09/10/2023](/week001023.pdf)
+* [Daniel Chapter 12 - Part 1 - Sunday 09/10/2023](/week091023.pdf)
 * [An Intro to Eschatology - Part 2 - Sunday 09/03/2023](/week090323.pdf)
 
 #### August 2023
