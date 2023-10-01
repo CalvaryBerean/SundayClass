@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2023 📖](#2023-)
+      * [October 2023](#october-2023)
       * [September 2023](#september-2023)
       * [August 2023](#august-2023)
       * [July 2023](#july-2023)
@@ -36,6 +37,9 @@
 <!-- TOC -->
 
 ### 2023 📖
+
+#### October 2023
+* [Introduction to the Ezekiel 38/39 War - Sunday 10/01/2023](/week100123.pdf)
 
 #### September 2023
 * [Daniel Chapter 12 - (Conclusion) - Sunday 09/24/2023](/week092423.pdf)
