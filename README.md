@@ -39,6 +39,7 @@
 ### 2023 📖
 
 #### October 2023
+* [Pray for the peace of Jerusalem - Sunday 10/08/2023](/week100823.pdf)
 * [Introduction to the Ezekiel 38/39 War - Sunday 10/01/2023](/week100123.pdf)
 
 #### September 2023
