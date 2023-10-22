@@ -39,6 +39,7 @@
 ### 2023 📖
 
 #### October 2023
+* [Sunday 10/22/2023](/week102223.pdf)
 * [God is in control - Sunday 10/15/2023](/week101523.pdf)
 * [Pray for the peace of Jerusalem - Sunday 10/08/2023](/week100823.pdf)
 * [Introduction to the Ezekiel 38/39 War - Sunday 10/01/2023](/week100123.pdf)
