@@ -40,6 +40,7 @@
 ### 2023 📖
 
 #### November 2023
+* [Sunday 11/12/2023](/week111223.pdf)
 * [Sunday 11/05/2023](/week110523.pdf)
 
 #### October 2023
