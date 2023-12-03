@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2023 📖](#2023-)
+      * [December 2023](#december-2023)
       * [November 2023](#november-2023)
       * [October 2023](#october-2023)
       * [September 2023](#september-2023)
@@ -38,6 +39,9 @@
 <!-- TOC -->
 
 ### 2023 📖
+
+#### December 2023
+* [Sunday 12/03/2023](/week120323.pdf)
 
 #### November 2023
 * [Sunday 11/26/2023](/week112623.pdf)
