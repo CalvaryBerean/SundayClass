@@ -41,6 +41,7 @@
 ### 2023 📖
 
 #### December 2023
+* [Sunday 12/17/2023](/week121723.pdf)
 * [How Events in Israel fit Bible Prophecy - Sunday 12/10/2023](/week121023.pdf)
 * [Sunday 12/03/2023](/week120323.pdf)
 
