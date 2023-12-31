@@ -41,6 +41,7 @@
 ### 2023 📖
 
 #### December 2023
+* [Happy New Year !!! - Sunday 12/31/2023](/week123123.pdf)
 * [🎄 🤶 Merry Christmas 🤶 🎄 !!! - Sunday 12/24/2023](/week122423.pdf)
 * [Sunday 12/17/2023](/week121723.pdf)
 * [How Events in Israel fit Bible Prophecy - Sunday 12/10/2023](/week121023.pdf)
