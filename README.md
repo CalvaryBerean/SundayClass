@@ -3,6 +3,8 @@
 <!-- TOC -->
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
+  * [2024 📖](#2024-)
+      * [January 2024](#january-2024)
   * [2023 📖](#2023-)
       * [December 2023](#december-2023)
       * [November 2023](#november-2023)
@@ -37,6 +39,11 @@
     * [August 2021](#august-2021)
   * [Help](#help)
 <!-- TOC -->
+
+### 2024 📖
+
+#### January 2024
+* [An Introduction To Eschatology - Sunday 01/07/2024](/week010724.md)
 
 ### 2023 📖
 
