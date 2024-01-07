@@ -43,7 +43,7 @@
 ### 2024 📖
 
 #### January 2024
-* [An Introduction To Eschatology - Sunday 01/07/2024](/week010724.md)
+* [An Introduction To Eschatology - Sunday 01/07/2024](/week010724.pdf)
 
 ### 2023 📖
 
