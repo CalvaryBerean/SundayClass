@@ -44,6 +44,7 @@
 
 #### January 2024
 * [An Introduction To Eschatology - Sunday 01/07/2024](/week010724.pdf)
+* [PublicSquare - Sunday 01/07/2024](https://www.youtube.com/watch?v=EhZEDdSgnhw)
 
 ### 2023 📖
 
