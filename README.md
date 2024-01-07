@@ -45,6 +45,7 @@
 #### January 2024
 * [An Introduction To Eschatology - Sunday 01/07/2024](/week010724.pdf)
 * [PublicSquare - Sunday 01/07/2024](https://www.youtube.com/watch?v=EhZEDdSgnhw)
+* [Alpha Omega Airlines 2024 - Sunday 01/07/2024](alpha.omega.2024.mp3)
 
 ### 2023 📖
 
