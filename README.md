@@ -43,6 +43,7 @@
 ### 2024 📖
 
 #### January 2024
+* [An Introduction To Eschatology, Part 1C - Sunday 01/21/2024](/week012124.pdf)
 * [An Introduction To Eschatology, Part 1B - Sunday 01/14/2024](/week011424.pdf)
 * [Dr. Missler - 7 Myths of Eschatology - Sunday 01/14/2024](/Missler7MythsnotesPart1.pdf)
 * [An Introduction To Eschatology - Sunday 01/07/2024](/week010724.pdf)
