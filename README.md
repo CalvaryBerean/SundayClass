@@ -5,6 +5,7 @@
     
   * [2024 📖](#2024-)
       * [January 2024](#january-2024)
+      * [February 2024](#february-2024)
   * [2023 📖](#2023-)
       * [December 2023](#december-2023)
       * [November 2023](#november-2023)
@@ -41,6 +42,9 @@
 <!-- TOC -->
 
 ### 2024 📖
+
+#### February 2024
+* [Defending Rapture Theology - Sunday 02/02/2024](/week020424.pdf)
 
 #### January 2024
 * [An Introduction To Eschatology, Part 1C - Sunday 01/21/2024](/week012124.pdf)
