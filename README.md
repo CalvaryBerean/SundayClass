@@ -44,9 +44,11 @@
 ### 2024 📖
 
 #### February 2024
+* [An Introduction To Eschatology (Part 2) - Sunday 02/11/2024](/week021124.pdf)
 * [Defending Rapture Theology - Sunday 02/02/2024](/week020424.pdf)
 
 #### January 2024
+* [An Introduction To Eschatology, Part 2A - Sunday 01/28/2024](/week012824.pdf)
 * [An Introduction To Eschatology, Part 1C - Sunday 01/21/2024](/week012124.pdf)
 * [An Introduction To Eschatology, Part 1B - Sunday 01/14/2024](/week011424.pdf)
 * [Dr. Missler - 7 Myths of Eschatology - Sunday 01/14/2024](/Missler7MythsnotesPart1.pdf)
