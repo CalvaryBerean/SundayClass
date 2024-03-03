@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [March 2024](#march-2024) 
       * [February 2024](#february-2024)
       * [January 2024](#january-2024)
   * [2023 📖](#2023-)
@@ -43,7 +44,12 @@
 
 ### 2024 📖
 
+#### March 2024
+* [Sunday 03/03/2024](/week030324.pdf)
+* 
 #### February 2024
+* [Sunday 02/25/2024](/week022524.pdf)
+* [Tools To Study God’s Word & an Intro to “Revelation” - Sunday 02/18/2024](/week021824.pdf)
 * [An Introduction To Eschatology (Part 2) - Sunday 02/11/2024](/week021124.pdf)
 * [Defending Rapture Theology - Sunday 02/02/2024](/week020424.pdf)
 
