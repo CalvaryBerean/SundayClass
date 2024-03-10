@@ -45,8 +45,9 @@
 ### 2024 📖
 
 #### March 2024
+* [Sunday 03/10/2024](/week031024.pdf)
 * [Sunday 03/03/2024](/week030324.pdf)
-* 
+
 #### February 2024
 * [Sunday 02/25/2024](/week022524.pdf)
 * [Tools To Study God’s Word & an Intro to “Revelation” - Sunday 02/18/2024](/week021824.pdf)
