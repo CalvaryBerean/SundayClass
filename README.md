@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [April 2024](#april-2024) 
       * [March 2024](#march-2024) 
       * [February 2024](#february-2024)
       * [January 2024](#january-2024)
@@ -43,6 +44,10 @@
 <!-- TOC -->
 
 ### 2024 📖
+
+#### April 2024
+* [Sunday 04/14/2024](/week041424.pdf)
+* [Sunday 04/07/2024](/week040724.pdf)
 
 #### March 2024
 * [Sunday 03/24/2024](/week032424.pdf)
