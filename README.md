@@ -46,8 +46,8 @@
 ### 2024 📖
 
 #### April 2024
-* [Sunday 04/14/2024](/week041424.pdf)
-* [Sunday 04/07/2024](/week040724.pdf)
+* [Sunday 04/14/2024 - Revelation 3:1-6](/week041424.pdf)
+* [Sunday 04/07/2024 - Revelation 2:12-29](/week040724.pdf)
 
 #### March 2024
 * [Sunday 03/24/2024](/week032424.pdf)
