@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [May 2024](#may-2024) 
       * [April 2024](#april-2024) 
       * [March 2024](#march-2024) 
       * [February 2024](#february-2024)
@@ -45,7 +46,13 @@
 
 ### 2024 📖
 
+#### May 2024
+* [Sunday 05/26/2024 - Revelation 3:19-22](/week052624.pdf)
+* [Sunday 05/12/2024 - Revelation 3:14-???](/week051224.pdf)
+* [Sunday 05/05/2024 - Revelation 3:11-13](/week050524.pdf)
+
 #### April 2024
+* [Sunday 04/28/2024 - Revelation 3:7-13](/week042824.pdf)
 * [Sunday 04/14/2024 - Revelation 3:1-6](/week041424.pdf)
 * [Sunday 04/07/2024 - Revelation 2:12-29](/week040724.pdf)
 
