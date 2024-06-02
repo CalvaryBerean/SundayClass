@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [June 2024](#june-2024) 
       * [May 2024](#may-2024) 
       * [April 2024](#april-2024) 
       * [March 2024](#march-2024) 
@@ -45,6 +46,9 @@
 <!-- TOC -->
 
 ### 2024 📖
+
+#### June 2024
+* [Sunday 06/02/2024 - Revelation 4. Heaven & The Throne](/week060224.pdf)
 
 #### May 2024
 * [Sunday 05/26/2024 - Revelation 3:19-22](/week052624.pdf)
