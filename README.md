@@ -48,6 +48,7 @@
 ### 2024 📖
 
 #### June 2024
+* [Sunday 06/16/2024 - Revelation - A Lion, a Lamb, a Scroll](/week061624.pdf)
 * [Sunday 06/02/2024 - Revelation 4. Heaven & The Throne](/week060224.pdf)
 
 #### May 2024
