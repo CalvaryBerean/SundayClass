@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [July 2024](#july-2024) 
       * [June 2024](#june-2024) 
       * [May 2024](#may-2024) 
       * [April 2024](#april-2024) 
@@ -46,6 +47,9 @@
 <!-- TOC -->
 
 ### 2024 📖
+
+#### July 2024
+* [Sunday 07/07/2024 - Revelation 6 - The 1st 6 Seal Judgements](/week070724.pdf)
 
 #### June 2024
 * [Sunday 06/30/2024 - Revelation - A Lion, a Lamb, a Scroll](/week063024.pdf)
