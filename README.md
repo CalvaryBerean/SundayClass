@@ -49,6 +49,7 @@
 ### 2024 📖
 
 #### July 2024
+* [Sunday 07/21/2024 - Revelation 7 - Conclusion](/week072124.pdf)
 * [Sunday 07/14/2024 - Revelation 7 - The 144,000 & The Great Multitude](/week071424.pdf)
 * [Sunday 07/07/2024 - Revelation 6 - The 1st 6 Seal Judgements](/week070724.pdf)
 
