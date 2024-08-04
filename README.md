@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [August 2024](#august-2024)
       * [July 2024](#july-2024) 
       * [June 2024](#june-2024) 
       * [May 2024](#may-2024) 
