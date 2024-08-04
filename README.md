@@ -48,6 +48,9 @@
 
 ### 2024 📖
 
+#### August 2024
+* [Sunday 08/04/2024 - Revelation 9:1-11](/week080424.pdf)
+
 #### July 2024
 * [Sunday 07/28/2024 - Revelation 8 - 4 Trumpets](/week072824.pdf)
 * [Sunday 07/21/2024 - Revelation 7 - Conclusion](/week072124.pdf)
