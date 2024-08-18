@@ -50,6 +50,7 @@
 ### 2024 📖
 
 #### August 2024
+* [Sunday 08/18/2024 - Revelation 10 - A Mighty Angel & a Little Book](/week081824.pdf)
 * [Sunday 08/04/2024 - Revelation 9:1-11](/week080424.pdf)
 
 #### July 2024
