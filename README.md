@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2024 📖](#2024-)
+      * [September 2024](#september-2024)
       * [August 2024](#august-2024)
       * [July 2024](#july-2024) 
       * [June 2024](#june-2024) 
@@ -48,6 +49,10 @@
 <!-- TOC -->
 
 ### 2024 📖
+
+
+#### September 2024
+* [Sunday 09/08/2024 - Revelation 12 - The Woman, the Child](/week090824.pdf)
 
 #### August 2024
 * [Sunday 08/25/2024 - Revelation 11 - The Two Witnesses](/week082524.pdf)
