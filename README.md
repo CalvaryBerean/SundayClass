@@ -50,9 +50,8 @@
 
 ### 2024 📖
 
-
 #### September 2024
-* [Sunday 09/08/2024 - Revelation 12 - The Woman, the Child](/week090824.pdf)
+* [Sunday 09/08/2024 - Revelation 12 - The Woman, the Child & the Dragon](/week090824.pdf)
 
 #### August 2024
 * [Sunday 08/25/2024 - Revelation 11 - The Two Witnesses](/week082524.pdf)
