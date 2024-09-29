@@ -51,6 +51,7 @@
 ### 2024 📖
 
 #### September 2024
+* [Sunday 09/29/2024 - Revelation 13:3-18	- The Beast & His Mark](/week092924.pdf)
 * [Sunday 09/15/2024 - Revelation 13:1-8	- Two Beasts](/week091524.pdf)
 * [Sunday 09/08/2024 - Revelation 12 - The Woman, the Child & the Dragon](/week090824.pdf)
 
