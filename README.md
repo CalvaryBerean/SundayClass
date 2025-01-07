@@ -67,7 +67,7 @@
 
 #### November 2024
 * [Sunday 11/17/2024 - Revelation 15](/week111724.pdf)
-* [Sunday 11/10/2024 - Revelation 15](/week111024.pdf)
+* [Sunday 11/10/2024 - Revelation 14](/week111024.pdf)
   
 #### October 2024
 
