@@ -3,7 +3,12 @@
 <!-- TOC -->
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
+  * [2025 📖](#2025-)
+      * [January 2025](#january-2025)
   * [2024 📖](#2024-)
+      * [December 2024](#december-2024)
+      * [November 2024](#november-2024)
+      * [October 2024](#october-2024)
       * [September 2024](#september-2024)
       * [August 2024](#august-2024)
       * [July 2024](#july-2024) 
@@ -48,7 +53,23 @@
   * [Help](#help)
 <!-- TOC -->
 
+### 2025 📖
+
+#### January 2025
+* [Sunday 01/05/2025 - New Year](/week122924.pdf)
+
 ### 2024 📖
+
+#### December 2024
+* [Sunday 12/29/2024 - End of year](/week122924.pdf)
+* [Sunday 12/08/2024 - Revelation 17](/week120824.pdf)
+* [Sunday 12/01/2024 - Revelation 16](/week120124.pdf)
+
+#### November 2024
+* [Sunday 11/17/2024 - Revelation 15](/week111724.pdf)
+* [Sunday 11/10/2024 - Revelation 15](/week111024.pdf)
+  
+#### October 2024
 
 #### September 2024
 * [Sunday 09/29/2024 - Revelation 13:3-18	- The Beast & His Mark](/week092924.pdf)
