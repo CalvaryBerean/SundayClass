@@ -56,7 +56,7 @@
 ### 2025 📖
 
 #### January 2025
-* [Sunday 01/12/2025 - New Year](/week011225.pdf)
+* [Sunday 01/12/2025 - Revelation 17 - Revelation 17](/week011225.pdf)
 * [Sunday 01/05/2025 - New Year](/week010525.pdf)
 
 ### 2024 📖
