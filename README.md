@@ -4,6 +4,7 @@
   * [Berean Class Directory](/BereanMobileDirectory-2023-09.pdf)
     
   * [2025 📖](#2025-)
+      * [February 2025](#february-2025)
       * [January 2025](#january-2025)
   * [2024 📖](#2024-)
       * [December 2024](#december-2024)
@@ -55,9 +56,14 @@
 
 ### 2025 📖
 
+
+#### February 2025
+
+* [Sunday 02/02/2025 - Revelation 19](/week020225.pdf)
+
 #### January 2025
 
-* [Sunday 01/26/2025 - Revelation 18](/week011925.pdf)
+* [Sunday 01/26/2025 - Revelation 18](/week012625.pdf)
 * [Sunday 01/19/2025 - Revelation 17 - 17:9-18](/week011925.pdf)
 * [Sunday 01/12/2025 - Revelation 17](/week011225.pdf)
 * [Sunday 01/05/2025 - New Year](/week010525.pdf)
