@@ -57,6 +57,7 @@
 
 #### January 2025
 
+* [Sunday 01/26/2025 - Revelation 18](/week011925.pdf)
 * [Sunday 01/19/2025 - Revelation 17 - 17:9-18](/week011925.pdf)
 * [Sunday 01/12/2025 - Revelation 17](/week011225.pdf)
 * [Sunday 01/05/2025 - New Year](/week010525.pdf)
