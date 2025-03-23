@@ -58,7 +58,8 @@
 
 
 #### February 2025 
-* [Sunday 02/09/2025 - Jonathan Cahn](/week021625.pdf)
+* [Sunday 02/23/2025 - Jonathan Cahn](/week022325.pdf)
+* [Sunday 02/16/2025 - Jonathan Cahn](/week021625.pdf)
 * [Sunday 02/09/2025 - Revelation 19:12-21](/week020925.pdf)
 * [Sunday 02/02/2025 - Revelation 19](/week020225.pdf)
 
